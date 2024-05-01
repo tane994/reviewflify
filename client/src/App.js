@@ -13,6 +13,8 @@ function App() {
   const [movieReviewList, setMovieReviewList] = useState([]);
   const [updatedReview, setUpdatedReview] = useState([]);
 
+  console.log(movieReviewList);
+
   useEffect(() => {
     Axios.get("http://localhost:3001/api/get")
       .then((response) => {
@@ -35,7 +37,7 @@ function App() {
           },
         ]);
       })
-      .catch((error) => console.error("Error posting data:", error)); 
+      .catch((error) => console.error("Error posting data:", error)); // It's good to handle potential errors.
   };
 
   const deleteReview = (name) => {

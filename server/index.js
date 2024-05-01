@@ -1,12 +1,20 @@
 const express = require('express');
 const app = express();
+const mysql = require('mysql2');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const db = require('./config/databaseConfig')
 
 app.use(cors());
 app.use(express.json());
 app.use(bodyParser.urlencoded({extended: true}));
+
+// Create a pool for managing connections
+const db = mysql.createPool({
+    host: '127.0.0.1',
+    user: 'root',
+    password: 'password',
+    database: 'CRUDDatabase'
+});
 
 // Verify database connection before starting the server
 db.getConnection((err, connection) => {
