@@ -11,12 +11,12 @@ Reviewflify is a web application that allows users to post, update, and delete r
 
 ## Technologies Used
 
-![React](https://url_to_react_logo.png) 
-![Material-UI](https://url_to_materialui_logo.png) 
-![Node.js](https://url_to_nodejs_logo.png) 
-![Express](https://url_to_express_logo.png) 
-![MySQL](https://url_to_mysql_logo.png) 
-![Axios](https://url_to_axios_logo.png) 
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) 
+![Material-UI](https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png) 
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png) 
+![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) 
+![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png) 
+![Axios](https://axios-http.com/assets/logo.svg) 
 
 - **Frontend**: React, Material-UI
 - **Backend**: Node.js, Express
