@@ -11,11 +11,11 @@ Reviewflify is a web application that allows users to post, update, and delete r
 
 ## Technologies Used
 
-<div style="background: #000; padding: 20px; text-align: center; color: white;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="React"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="Express"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="MySQL"/>
+<div style="background: #000; padding: 20px; margin: 20px 0 20px 0; text-align: center; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 80px; vertical-align: middle; margin-right: 30px;" alt="React"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 30px;" alt="Node.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="height: 80px; vertical-align: middle; margin-right: 30px;" alt="Express"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 30px;" alt="MySQL"/>
 </div>
 
 
