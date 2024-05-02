@@ -11,12 +11,13 @@ Reviewflify is a web application that allows users to post, update, and delete r
 
 ## Technologies Used
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) 
-![Material-UI](https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png) 
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png) 
-![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) 
-![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png) 
-![Axios](https://axios-http.com/assets/logo.svg) 
+<div style="background: #000; padding: 20px; text-align: center; color: white;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="React"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="Node.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="Express"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" style="height: 80px; vertical-align: middle; margin-right: 20px;" alt="MySQL"/>
+</div>
+
 
 - **Frontend**: React, Material-UI
 - **Backend**: Node.js, Express
